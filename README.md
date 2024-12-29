@@ -30,17 +30,17 @@ This project aims to predict passenger count using Long Short-Term Memory (LSTM)
 - **LSTM Model Performance**: The model was trained on passenger data and achieved good prediction performance with low error.
 - **Prediction Function**: Passenger count is successfully predicted based on various input features (time, holiday status, weekday).
 
+## 🤝 Acknowledgements
+Special thanks to **Melih Ağraz** for his guidance and support throughout the project. This work was completed as part of the **"Artificial Intelligence"** course.
 
-🤝 Acknowledgements
-We would like to thank our dear teacher Melih Ağraz for her support to the project. This work was completed as part of the "Yapay Zeka" course.
+## 📬 Contact
+Author: **Emirhan , Emre Bektaş , Semih Cankat Cansız**  
+Email: **Emirhan : topcuemirhan59gmail.com 
+         Emre: emrebkts2828@gmail.com
+         Semih: cankat.cansiz@gmail.com**  
+LinkedIn: **Emirhan: https://www.linkedin.com/in/emirhan-top%C3%A7u-762825294/
+            Emre: https://www.linkedin.com/in/emre-bekta%C5%9F-4414342a3/
+            Semih: https://www.linkedin.com/in/semih-cankat-cans%C4%B1z-925821343/**
 
-📬 Contact
-Author: Emirhan Topçu , Emre Bektaş , Semih Cankat Cansız
-Email: Emirhan: topcuemirhan59@gmail.com
-       Emre: emrebkts2828@gmail.com
-       Semih: cankat.cansiz@gmail.com
-        
-LinkedIn: Emirhan : https://www.linkedin.com/in/emirhan-top%C3%A7u-762825294/
-          Emre : https://www.linkedin.com/in/emre-bekta%C5%9F-4414342a3/
-          Semih : https://www.linkedin.com/in/semih-cankat-cans%C4%B1z-925821343/
 Feel free to explore the repository and provide feedback!
+
