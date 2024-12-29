@@ -30,10 +30,6 @@ This project aims to predict passenger count using Long Short-Term Memory (LSTM)
 - **LSTM Model Performance**: The model was trained on passenger data and achieved good prediction performance with low error.
 - **Prediction Function**: Passenger count is successfully predicted based on various input features (time, holiday status, weekday).
 
-## 🔍 How to Run the Project
-1. **Clone the repository**:  
-```bash
-git clone https://github.com/yourusername/passenger-count-prediction.git
 
 🤝 Acknowledgements
 We would like to thank our dear teacher Melih Ağraz for her support to the project. This work was completed as part of the "Yapay Zeka" course.
